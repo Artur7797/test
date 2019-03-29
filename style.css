@@ -1,11 +1,11 @@
 body {
     margin: auto;
-    min-height: 100vh;
-    overflow: hidden;
+    max-height: 100vh;
     background: url("tlo.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
+    overflow: hidden;
 }
 
 .s-nav {
